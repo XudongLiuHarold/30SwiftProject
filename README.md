@@ -14,4 +14,6 @@
 
 ![Alt text](https://github.com/allenwong/30DaysofSwift/blob/master/Project%2010%20-%20VideoBackground/videobg.gif?raw=true)
 
-###Project 3 - [PullToRefresh]()
+###Project 3 - [PullToRefresh](https://github.com/allenwong/30DaysofSwift/tree/master/Project%207%20-%20PullToRefresh)
+
+![Alt text](https://github.com/allenwong/30DaysofSwift/blob/master/Project%2007%20-%20PullToRefresh/pulltorefresh.gif?raw=true)
